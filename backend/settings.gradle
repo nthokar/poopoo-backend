@@ -1,0 +1,2 @@
+rootProject.name = 'poopoo-backend'
+include("services:mainservice", "libs:minio")
